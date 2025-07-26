@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Geovanni Alexandre Neto, tenho 20 anos e sou natural de Goiás. Atualmente, estou cursando Engenharia de Software na UniEVANGÉLICA. Sou apaixonado por tecnologia.
+Me chamo Geovanni Alexandre Neto, tenho 20 anos e sou natural de Goiás. Atualmente, estou cursando Engenharia de Software na UniEVANGÉLICA.
 
 ---
 
