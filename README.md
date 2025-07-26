@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Geovanni Alexandre
+## 🧑🏻‍💻 Geovanni Alexandre
 
 **`Desenvolvedor Back-end`**
 
