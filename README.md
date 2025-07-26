@@ -8,8 +8,8 @@ Me chamo Geovanni Alexandre Neto, tenho 20 anos e sou natural de Goiás. Atualme
 
 <!-- Estatísticas GitHub -->
 <div align="margin-top;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannialex&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="125" alt="gráfico de linguagens" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=geovannialex&theme=monokai" height="125" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannialex&locale=pt-br&hide_title=false&layout=compact&card_width=1&langs_count=100&theme=monokai&hide_border=false" height="130" alt="gráfico de linguagens" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=geovannialex&theme=monokai" height="130" alt="GitHub Streak" />
 </div>
 
 <!-- Contatos - Redes sociais -->
@@ -27,3 +27,8 @@ Me chamo Geovanni Alexandre Neto, tenho 20 anos e sou natural de Goiás. Atualme
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
+
+
+
+
+
