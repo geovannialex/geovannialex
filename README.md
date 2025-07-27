@@ -17,7 +17,7 @@ Me chamo Geovanni Alexandre Neto, tenho 20 anos e sou natural de Goiás. Atualme
   <a href="mailto:geovannialexandre2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/5511912345678" target="_blank">
+  <a href="https://wa.me/5562996543939" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/geovannialexandre" target="_blank">
