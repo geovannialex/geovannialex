@@ -7,9 +7,17 @@ Me chamo Geovanni Alexandre Neto, tenho 20 anos e sou natural de Goiás. Atualme
 ---
 
 <!-- Estatísticas GitHub -->
-<div align="margin-top;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannialex&locale=pt-br&hide_title=false&layout=compact&card_width=1&langs_count=100&theme=monokai&hide_border=false" height="130" alt="gráfico de linguagens" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=geovannialex&theme=monokai" height="130" alt="GitHub Streak" />
+<div align="center" style="margin-top: 20px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannialex&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=radical&hide_border=false"
+    height="130"
+    alt="Gráfico de Linguagens"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=geovannialex&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
+    height="130"
+    alt="Estatísticas do GitHub"
+  />
 </div>
 
 <!-- Contatos - Redes sociais -->
