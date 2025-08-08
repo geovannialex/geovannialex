@@ -7,7 +7,7 @@ Me chamo Geovanni Alexandre Neto, tenho 20 anos e sou natural de Goiás. Atualme
 ---
 
 <!-- Estatísticas GitHub -->
-<div align="center" style="margin-top: 20px;">
+<div style="margin-top: 20px;">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannialex&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=radical&hide_border=false"
     height="130"
