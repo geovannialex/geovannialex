@@ -1,4 +1,4 @@
-Olá, sou Geovanni Alexandre, desenvolvedor de software e entusiasta do mundo da tecnologia.
+## Olá, sou Geovanni Alexandre, desenvolvedor de software e entusiasta do mundo da tecnologia.
 
 ---
 
@@ -19,13 +19,13 @@ Olá, sou Geovanni Alexandre, desenvolvedor de software e entusiasta do mundo da
 <!-- Contatos - Redes sociais -->
 <div style="margin-top;">
   <a href="mailto:geovannialexandre2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://wa.me/5562996543939" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/geovannialexandre" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/geovannialexandree" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
